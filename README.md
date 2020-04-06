@@ -1,1 +1,1 @@
-Test page for Jenkins
+Test app for Jenkins
